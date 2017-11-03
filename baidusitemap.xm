@@ -4,8 +4,8 @@
 
     
   <url>
-    <loc>https://linsage.xyz/2017/11/02/%E6%8A%80%E6%9C%AF/%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AEHTTPS/</loc>
-    <lastmod>2017-11-03T07:39:43.000Z</lastmod>
+    <loc>https://linsage.xyz/2017/11/02/%E6%8A%80%E6%9C%AF/%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AEhttps/</loc>
+    <lastmod>2017-11-03T07:54:15.000Z</lastmod>
     <data>
         <display>
         <title>快速配置HTTPS</title>
