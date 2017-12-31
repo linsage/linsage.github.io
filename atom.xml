@@ -5,9 +5,9 @@
   <subtitle>静ge|中山</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://linsage.xyz/"/>
+  <link href="https://linsage.com/"/>
   <updated>2017-11-03T07:55:01.000Z</updated>
-  <id>https://linsage.xyz/</id>
+  <id>https://linsage.com/</id>
   
   <author>
     <name>linsage</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>快速配置https</title>
-    <link href="https://linsage.xyz/2017/11/02/%E6%8A%80%E6%9C%AF/%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AEhttps/"/>
-    <id>https://linsage.xyz/2017/11/02/技术/快速配置https/</id>
+    <link href="https://linsage.com/2017/11/02/%E6%8A%80%E6%9C%AF/%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AEhttps/"/>
+    <id>https://linsage.com/2017/11/02/技术/快速配置https/</id>
     <published>2017-11-02T10:08:01.000Z</published>
     <updated>2017-11-03T07:55:01.000Z</updated>
     
@@ -31,17 +31,17 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
   <entry>
     <title>Nginx安装</title>
-    <link href="https://linsage.xyz/2017/11/02/%E6%8A%80%E6%9C%AF/Nginx%E5%AE%89%E8%A3%85/"/>
-    <id>https://linsage.xyz/2017/11/02/技术/Nginx安装/</id>
+    <link href="https://linsage.com/2017/11/02/%E6%8A%80%E6%9C%AF/Nginx%E5%AE%89%E8%A3%85/"/>
+    <id>https://linsage.com/2017/11/02/技术/Nginx安装/</id>
     <published>2017-11-02T07:07:53.000Z</published>
     <updated>2017-11-02T09:06:04.000Z</updated>
     
@@ -53,17 +53,17 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
   <entry>
     <title>Chrome Headless模式</title>
-    <link href="https://linsage.xyz/2017/08/03/%E6%8A%80%E6%9C%AF/Chrome%20Headless%E6%A8%A1%E5%BC%8F/"/>
-    <id>https://linsage.xyz/2017/08/03/技术/Chrome Headless模式/</id>
+    <link href="https://linsage.com/2017/08/03/%E6%8A%80%E6%9C%AF/Chrome%20Headless%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://linsage.com/2017/08/03/技术/Chrome Headless模式/</id>
     <published>2017-08-03T03:27:26.000Z</published>
     <updated>2017-11-02T02:49:26.000Z</updated>
     
@@ -75,19 +75,19 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="chrome" scheme="https://linsage.xyz/tags/chrome/"/>
+      <category term="chrome" scheme="https://linsage.com/tags/chrome/"/>
     
   </entry>
   
   <entry>
     <title>构建自己的Chrome扩展</title>
-    <link href="https://linsage.xyz/2017/07/20/%E6%8A%80%E6%9C%AF/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84Chrome%E6%89%A9%E5%B1%95/"/>
-    <id>https://linsage.xyz/2017/07/20/技术/构建自己的Chrome扩展/</id>
+    <link href="https://linsage.com/2017/07/20/%E6%8A%80%E6%9C%AF/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84Chrome%E6%89%A9%E5%B1%95/"/>
+    <id>https://linsage.com/2017/07/20/技术/构建自己的Chrome扩展/</id>
     <published>2017-07-20T02:06:29.000Z</published>
     <updated>2017-08-06T02:41:21.000Z</updated>
     
@@ -99,19 +99,19 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="chrome" scheme="https://linsage.xyz/tags/chrome/"/>
+      <category term="chrome" scheme="https://linsage.com/tags/chrome/"/>
     
   </entry>
   
   <entry>
     <title>Java常量类生成器</title>
-    <link href="https://linsage.xyz/2017/07/04/%E6%8A%80%E6%9C%AF/Java%E5%B8%B8%E9%87%8F%E7%B1%BB%E7%94%9F%E6%88%90%E5%99%A8/"/>
-    <id>https://linsage.xyz/2017/07/04/技术/Java常量类生成器/</id>
+    <link href="https://linsage.com/2017/07/04/%E6%8A%80%E6%9C%AF/Java%E5%B8%B8%E9%87%8F%E7%B1%BB%E7%94%9F%E6%88%90%E5%99%A8/"/>
+    <id>https://linsage.com/2017/07/04/技术/Java常量类生成器/</id>
     <published>2017-07-04T09:22:31.000Z</published>
     <updated>2017-08-06T02:41:04.000Z</updated>
     
@@ -123,19 +123,19 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="java" scheme="https://linsage.xyz/tags/java/"/>
+      <category term="java" scheme="https://linsage.com/tags/java/"/>
     
   </entry>
   
   <entry>
     <title>hexo中实现ins相册功能</title>
-    <link href="https://linsage.xyz/2017/06/19/%E6%8A%80%E6%9C%AF/hexo%E4%B8%AD%E5%AE%9E%E7%8E%B0ins%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD/"/>
-    <id>https://linsage.xyz/2017/06/19/技术/hexo中实现ins相册功能/</id>
+    <link href="https://linsage.com/2017/06/19/%E6%8A%80%E6%9C%AF/hexo%E4%B8%AD%E5%AE%9E%E7%8E%B0ins%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD/"/>
+    <id>https://linsage.com/2017/06/19/技术/hexo中实现ins相册功能/</id>
     <published>2017-06-19T06:47:43.000Z</published>
     <updated>2017-08-06T02:40:41.000Z</updated>
     
@@ -147,19 +147,19 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="hexo" scheme="https://linsage.xyz/tags/hexo/"/>
+      <category term="hexo" scheme="https://linsage.com/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>socks5代理转http代理</title>
-    <link href="https://linsage.xyz/2017/06/13/%E6%8A%80%E6%9C%AF/Socks5%E4%BB%A3%E7%90%86%E8%BD%ACHttp%E4%BB%A3%E7%90%86/"/>
-    <id>https://linsage.xyz/2017/06/13/技术/Socks5代理转Http代理/</id>
+    <link href="https://linsage.com/2017/06/13/%E6%8A%80%E6%9C%AF/Socks5%E4%BB%A3%E7%90%86%E8%BD%ACHttp%E4%BB%A3%E7%90%86/"/>
+    <id>https://linsage.com/2017/06/13/技术/Socks5代理转Http代理/</id>
     <published>2017-06-13T07:16:04.000Z</published>
     <updated>2017-08-06T02:40:06.000Z</updated>
     
@@ -171,19 +171,19 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="web" scheme="https://linsage.xyz/tags/web/"/>
+      <category term="web" scheme="https://linsage.com/tags/web/"/>
     
   </entry>
   
   <entry>
     <title>微信小程序-会话管理</title>
-    <link href="https://linsage.xyz/2017/06/12/%E6%8A%80%E6%9C%AF/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E4%BC%9A%E8%AF%9D%E7%AE%A1%E7%90%86/"/>
-    <id>https://linsage.xyz/2017/06/12/技术/微信小程序-会话管理/</id>
+    <link href="https://linsage.com/2017/06/12/%E6%8A%80%E6%9C%AF/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E4%BC%9A%E8%AF%9D%E7%AE%A1%E7%90%86/"/>
+    <id>https://linsage.com/2017/06/12/技术/微信小程序-会话管理/</id>
     <published>2017-06-12T06:44:25.000Z</published>
     <updated>2017-08-06T02:39:37.000Z</updated>
     
@@ -195,19 +195,19 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="微信小程序" scheme="https://linsage.xyz/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <category term="微信小程序" scheme="https://linsage.com/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>TamperMonkey使用</title>
-    <link href="https://linsage.xyz/2017/06/11/%E6%8A%80%E6%9C%AF/TamperMonkey%E4%BD%BF%E7%94%A8/"/>
-    <id>https://linsage.xyz/2017/06/11/技术/TamperMonkey使用/</id>
+    <link href="https://linsage.com/2017/06/11/%E6%8A%80%E6%9C%AF/TamperMonkey%E4%BD%BF%E7%94%A8/"/>
+    <id>https://linsage.com/2017/06/11/技术/TamperMonkey使用/</id>
     <published>2017-06-11T08:40:53.000Z</published>
     <updated>2017-08-06T02:38:56.000Z</updated>
     
@@ -219,19 +219,19 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="chrome" scheme="https://linsage.xyz/tags/chrome/"/>
+      <category term="chrome" scheme="https://linsage.com/tags/chrome/"/>
     
   </entry>
   
   <entry>
     <title>想法与行动</title>
-    <link href="https://linsage.xyz/2017/02/01/%E7%94%9F%E6%B4%BB/%E6%83%B3%E6%B3%95%E4%B8%8E%E8%A1%8C%E5%8A%A8/"/>
-    <id>https://linsage.xyz/2017/02/01/生活/想法与行动/</id>
+    <link href="https://linsage.com/2017/02/01/%E7%94%9F%E6%B4%BB/%E6%83%B3%E6%B3%95%E4%B8%8E%E8%A1%8C%E5%8A%A8/"/>
+    <id>https://linsage.com/2017/02/01/生活/想法与行动/</id>
     <published>2017-02-01T12:24:03.000Z</published>
     <updated>2017-07-20T03:16:49.000Z</updated>
     
@@ -247,17 +247,17 @@
     
     </summary>
     
-      <category term="生活" scheme="https://linsage.xyz/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://linsage.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="生活" scheme="https://linsage.xyz/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://linsage.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>Jfinal整合Druid</title>
-    <link href="https://linsage.xyz/2017/01/30/%E6%8A%80%E6%9C%AF/Jfinal+Druid/"/>
-    <id>https://linsage.xyz/2017/01/30/技术/Jfinal+Druid/</id>
+    <link href="https://linsage.com/2017/01/30/%E6%8A%80%E6%9C%AF/Jfinal+Druid/"/>
+    <id>https://linsage.com/2017/01/30/技术/Jfinal+Druid/</id>
     <published>2017-01-30T14:45:51.000Z</published>
     <updated>2017-08-06T02:38:47.000Z</updated>
     
@@ -269,19 +269,19 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="数据库" scheme="https://linsage.xyz/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+      <category term="数据库" scheme="https://linsage.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
   </entry>
   
   <entry>
     <title>Jenkins持续集成</title>
-    <link href="https://linsage.xyz/2017/01/16/%E6%8A%80%E6%9C%AF/Jenkins%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/"/>
-    <id>https://linsage.xyz/2017/01/16/技术/Jenkins持续集成/</id>
+    <link href="https://linsage.com/2017/01/16/%E6%8A%80%E6%9C%AF/Jenkins%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/"/>
+    <id>https://linsage.com/2017/01/16/技术/Jenkins持续集成/</id>
     <published>2017-01-16T01:39:38.000Z</published>
     <updated>2017-08-20T07:34:39.000Z</updated>
     
@@ -293,19 +293,19 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="ci" scheme="https://linsage.xyz/tags/ci/"/>
+      <category term="ci" scheme="https://linsage.com/tags/ci/"/>
     
   </entry>
   
   <entry>
     <title>提高终端的颜值</title>
-    <link href="https://linsage.xyz/2016/12/19/%E6%8A%80%E6%9C%AF/%E6%8F%90%E9%AB%98%E7%BB%88%E7%AB%AF%E7%9A%84%E9%A2%9C%E5%80%BC/"/>
-    <id>https://linsage.xyz/2016/12/19/技术/提高终端的颜值/</id>
+    <link href="https://linsage.com/2016/12/19/%E6%8A%80%E6%9C%AF/%E6%8F%90%E9%AB%98%E7%BB%88%E7%AB%AF%E7%9A%84%E9%A2%9C%E5%80%BC/"/>
+    <id>https://linsage.com/2016/12/19/技术/提高终端的颜值/</id>
     <published>2016-12-19T03:40:17.000Z</published>
     <updated>2017-08-06T02:38:34.000Z</updated>
     
@@ -317,23 +317,23 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="vim" scheme="https://linsage.xyz/tags/vim/"/>
+      <category term="vim" scheme="https://linsage.com/tags/vim/"/>
     
   </entry>
   
   <entry>
     <title>使用Hexo+Github搭建个人博客</title>
-    <link href="https://linsage.xyz/2016/12/15/%E6%8A%80%E6%9C%AF/%E4%BD%BF%E7%94%A8Hexo+Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://linsage.xyz/2016/12/15/技术/使用Hexo+Github搭建博客/</id>
+    <link href="https://linsage.com/2016/12/15/%E6%8A%80%E6%9C%AF/%E4%BD%BF%E7%94%A8Hexo+Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://linsage.com/2016/12/15/技术/使用Hexo+Github搭建博客/</id>
     <published>2016-12-15T02:03:13.000Z</published>
     <updated>2017-08-06T02:40:18.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://ww1.sinaimg.cn/large/006tNbRwgy1fc45yvqxlwj30wa0jwmxk.jpg" alt=""></p><p>开篇之作，一直想写些技术与学习相关的文章分享。向别人讲述一个知识学习方法和经验，分享总是比个人单纯学会要难，需要考虑很多东西，包括学习方法、遇到问题、讲述方式、写作手法等。与别人分享知识的过程，同时也是个人学习的过程。<br><a id="more"></a></p><h2 id="预备知识"><a href="#预备知识" class="headerlink" title="预备知识"></a>预备知识</h2><ul><li>Git基础命令使用</li><li>Github使用</li><li>Hexo安装与使用</li><li>Markdown语法</li></ul><h2 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h2><h3 id="一、GitHub-Pages"><a href="#一、GitHub-Pages" class="headerlink" title="一、GitHub Pages"></a>一、GitHub Pages</h3><p>专属于个人的静态网页托管项目，稳定可靠，<a href="https://pages.github.com/" target="_blank" rel="external">官网介绍</a>。</p><h4 id="1-注册GitHub。"><a href="#1-注册GitHub。" class="headerlink" title="1. 注册GitHub。"></a>1. 注册GitHub。</h4><p>创建用户名一个username.github.io。username-实际用户名。</p><h4 id="2-配置项目信息"><a href="#2-配置项目信息" class="headerlink" title="2. 配置项目信息"></a>2. 配置项目信息</h4><p><img src="https://ww4.sinaimg.cn/large/006tNbRwgy1fc45ziwy2ej312m0ss75n.jpg" alt=""></p><h4 id="3-通过git下载本地"><a href="#3-通过git下载本地" class="headerlink" title="3. 通过git下载本地"></a>3. 通过git下载本地</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git clone https://github.com/username/username.github.io</div></pre></td></tr></table></figure><h4 id="4-创建默认页"><a href="#4-创建默认页" class="headerlink" title="4. 创建默认页"></a>4. 创建默认页</h4><p>创建index.html页面，git推到远程服务器</p><h4 id="5-浏览"><a href="#5-浏览" class="headerlink" title="5. 浏览"></a>5. 浏览</h4><p> <a href="http://linsage.github.io" target="_blank" rel="external">http://linsage.github.io</a></p><h3 id="二、Hexo博客框架"><a href="#二、Hexo博客框架" class="headerlink" title="二、Hexo博客框架"></a>二、Hexo博客框架</h3><p>Hexo 是一个快速、简洁且高效的博客框架，最终生成静态网页，<a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="external">官网介绍</a>。</p><h4 id="1-安装Hexo"><a href="#1-安装Hexo" class="headerlink" title="1. 安装Hexo"></a>1. 安装Hexo</h4><p><a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="external">安装介绍</a><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install -g hexo-cli</div></pre></td></tr></table></figure></p><h4 id="2-hexo命令"><a href="#2-hexo命令" class="headerlink" title="2. hexo命令"></a>2. hexo命令</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">hexo init #初始化</div><div class="line">hexo g #生成静态网页</div><div class="line">hexo s #启动服务，默认4000端口</div><div class="line">hexo d #部署</div><div class="line">hexo n #写文章</div></pre></td></tr></table></figure><h4 id="3-选择yilia主题"><a href="#3-选择yilia主题" class="headerlink" title="3. 选择yilia主题"></a>3. 选择yilia主题</h4><p>hexo提供很多主题选择，根据喜好选择。<br>修改hexo根目录下的 <code>_config.yml</code> ： <code>theme: yilia</code><br><a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="external">yilia主题</a></p><h4 id="4-部署到github"><a href="#4-部署到github" class="headerlink" title="4. 部署到github"></a>4. 部署到github</h4><h3 id="三、域名解析"><a href="#三、域名解析" class="headerlink" title="三、域名解析"></a>三、域名解析</h3><p>域名推荐到阿里云或者godaddy购买，国内需要实名认证后才能正常解析。<br>linsage.xyz域名下，子域名blog，相当于linsage.xyz<br>增加CNAME记录<br><img src="https://ww2.sinaimg.cn/large/006tNbRwgy1fc45zwli6nj31j00480sx.jpg" alt=""><br>增加CNAME文件<br><img src="https://ws4.sinaimg.cn/large/006tNbRwgy1fgdy946sf8j30lw0ds0tx.jpg" alt=""></p><p>等1分钟后，访问 <a href="http://linsage.xyz">http://linsage.xyz</a>  即可</p><h2 id="相关软件"><a href="#相关软件" class="headerlink" title="相关软件"></a>相关软件</h2><ul><li>MacOS</li><li>MWeb，专注于markdown语法编辑器。</li><li>iPic，图床上传工具</li><li>坚果云同步盘</li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://ww1.sinaimg.cn/large/006tNbRwgy1fc45yvqxlwj30wa0jwmxk.jpg" alt=""></p><p>开篇之作，一直想写些技术与学习相关的文章分享。向别人讲述一个知识学习方法和经验，分享总是比个人单纯学会要难，需要考虑很多东西，包括学习方法、遇到问题、讲述方式、写作手法等。与别人分享知识的过程，同时也是个人学习的过程。<br><a id="more"></a></p><h2 id="预备知识"><a href="#预备知识" class="headerlink" title="预备知识"></a>预备知识</h2><ul><li>Git基础命令使用</li><li>Github使用</li><li>Hexo安装与使用</li><li>Markdown语法</li></ul><h2 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h2><h3 id="一、GitHub-Pages"><a href="#一、GitHub-Pages" class="headerlink" title="一、GitHub Pages"></a>一、GitHub Pages</h3><p>专属于个人的静态网页托管项目，稳定可靠，<a href="https://pages.github.com/" target="_blank" rel="external">官网介绍</a>。</p><h4 id="1-注册GitHub。"><a href="#1-注册GitHub。" class="headerlink" title="1. 注册GitHub。"></a>1. 注册GitHub。</h4><p>创建用户名一个username.github.io。username-实际用户名。</p><h4 id="2-配置项目信息"><a href="#2-配置项目信息" class="headerlink" title="2. 配置项目信息"></a>2. 配置项目信息</h4><p><img src="https://ww4.sinaimg.cn/large/006tNbRwgy1fc45ziwy2ej312m0ss75n.jpg" alt=""></p><h4 id="3-通过git下载本地"><a href="#3-通过git下载本地" class="headerlink" title="3. 通过git下载本地"></a>3. 通过git下载本地</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git clone https://github.com/username/username.github.io</div></pre></td></tr></table></figure><h4 id="4-创建默认页"><a href="#4-创建默认页" class="headerlink" title="4. 创建默认页"></a>4. 创建默认页</h4><p>创建index.html页面，git推到远程服务器</p><h4 id="5-浏览"><a href="#5-浏览" class="headerlink" title="5. 浏览"></a>5. 浏览</h4><p> <a href="http://linsage.github.io" target="_blank" rel="external">http://linsage.github.io</a></p><h3 id="二、Hexo博客框架"><a href="#二、Hexo博客框架" class="headerlink" title="二、Hexo博客框架"></a>二、Hexo博客框架</h3><p>Hexo 是一个快速、简洁且高效的博客框架，最终生成静态网页，<a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="external">官网介绍</a>。</p><h4 id="1-安装Hexo"><a href="#1-安装Hexo" class="headerlink" title="1. 安装Hexo"></a>1. 安装Hexo</h4><p><a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="external">安装介绍</a><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install -g hexo-cli</div></pre></td></tr></table></figure></p><h4 id="2-hexo命令"><a href="#2-hexo命令" class="headerlink" title="2. hexo命令"></a>2. hexo命令</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">hexo init #初始化</div><div class="line">hexo g #生成静态网页</div><div class="line">hexo s #启动服务，默认4000端口</div><div class="line">hexo d #部署</div><div class="line">hexo n #写文章</div></pre></td></tr></table></figure><h4 id="3-选择yilia主题"><a href="#3-选择yilia主题" class="headerlink" title="3. 选择yilia主题"></a>3. 选择yilia主题</h4><p>hexo提供很多主题选择，根据喜好选择。<br>修改hexo根目录下的 <code>_config.yml</code> ： <code>theme: yilia</code><br><a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="external">yilia主题</a></p><h4 id="4-部署到github"><a href="#4-部署到github" class="headerlink" title="4. 部署到github"></a>4. 部署到github</h4><h3 id="三、域名解析"><a href="#三、域名解析" class="headerlink" title="三、域名解析"></a>三、域名解析</h3><p>域名推荐到阿里云或者godaddy购买，国内需要实名认证后才能正常解析。<br>linsage.xyz域名下，子域名blog，相当于linsage.xyz<br>增加CNAME记录<br><img src="https://ww2.sinaimg.cn/large/006tNbRwgy1fc45zwli6nj31j00480sx.jpg" alt=""><br>增加CNAME文件<br><img src="https://ws4.sinaimg.cn/large/006tNbRwgy1fgdy946sf8j30lw0ds0tx.jpg" alt=""></p><p>等1分钟后，访问 <a href="http://linsage.xyz" target="_blank" rel="external">http://linsage.xyz</a>  即可</p><h2 id="相关软件"><a href="#相关软件" class="headerlink" title="相关软件"></a>相关软件</h2><ul><li>MacOS</li><li>MWeb，专注于markdown语法编辑器。</li><li>iPic，图床上传工具</li><li>坚果云同步盘</li></ul>]]></content>
     
     <summary type="html">
     
@@ -341,12 +341,12 @@
     
     </summary>
     
-      <category term="技术" scheme="https://linsage.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="技术" scheme="https://linsage.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://linsage.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="hexo" scheme="https://linsage.xyz/tags/hexo/"/>
+      <category term="hexo" scheme="https://linsage.com/tags/hexo/"/>
     
   </entry>
   
